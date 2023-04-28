@@ -1,5 +1,5 @@
 # GitHub Blog
-### Principais technologias
+### Main technologies
 
 - React
 - Fontawesome
